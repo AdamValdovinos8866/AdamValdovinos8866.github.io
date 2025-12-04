@@ -17,8 +17,8 @@ My GitHub page is http://github.com/AdamValdovinos8866.
 
 * Lab 5 part 1
     Lab 5, part 1 was personally one of my favorite labs to work with. This lab 
-    mainly demonstrated how user input can affect parts of the program. when the
-    user would input a value too big or small, that didnt follow the c++ integer limit, the program would notify the user that the program has stopped and it would exit the program. Personally, i enjoyed this lab because it demonstrates how conditional statements used user input and help shape the desired output.
+    mainly demonstrated how user input can affect parts of the program. When the
+    user would input a value too big or small, that didn't follow the c++ integer limit, the program would notify the user that it had stopped and it would exit the program. Personally, I enjoyed this lab because it demonstrates how conditional statements use user input to shape the desired output.
 
 * Lab 10 part 1
-    Lab 10, part 2 was another favorite because i consider it to be very informational for first time users. i liked the idea of 2D vectors and comparison operators functioning together to create a educative program. Users can input different counties in california and know the population and the percentage of the states population residing in that county. This lab shows a general idea on how the programs of different textbooks and websites show data and facts based on a key word provided by the user. 
+    Lab 10, part 2 was another favorite because I consider it to be very informational for first time users. I liked the idea of 2D vectors and comparison operators functioning together to create a educative program. Users can input different counties in California and know the population and the percentage of the states population residing in that county. This lab shows a general idea on how the programs of different textbooks and websites online, show data and facts based on a key word provided by the user. 
